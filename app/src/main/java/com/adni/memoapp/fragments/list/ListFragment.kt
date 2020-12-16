@@ -118,6 +118,7 @@ class ListFragment : Fragment() {
                     "Successfully Removed All data",
                     Toast.LENGTH_SHORT
                 ).show()
+
             }
             .setNegativeButton("No", null)
             .create()
